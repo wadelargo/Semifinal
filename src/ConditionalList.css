@@ -1,0 +1,31 @@
+/* ConditionalList.css */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .conditional-list-container {
+    text-align: center;
+  }
+  
+  .toggle-button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .list-container {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    margin-bottom: 5px;
+  }
+  
